@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2025-12-28T10:00:00",
+    "source": "auth",
+    "event": "login_failed",
+    "ip": "192.168.1.10",
+    "user": "admin"
+  },
+  {
+    "timestamp": "2025-12-28T10:01:00",
+    "source": "auth",
+    "event": "login_failed",
+    "ip": "192.168.1.10",
+    "user": "admin"
+  },
+  {
+    "timestamp": "2025-12-28T10:02:00",
+    "source": "auth",
+    "event": "login_failed",
+    "ip": "192.168.1.10",
+    "user": "admin"
+  }
+]
